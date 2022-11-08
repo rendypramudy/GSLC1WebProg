@@ -23,3 +23,7 @@ Route::get('/home', function () {
 });
 
 Route::get('/animallist', [AnimalController::class, 'anim']);
+
+Route::get('/about', function () {
+    return view('about');
+});
