@@ -18,6 +18,7 @@ class CreateAnimalsTable extends Migration
             $table->string('name');
             $table->string('type');
             $table->string('food');
+            // $table->string('img_url');
             // $table->timestamps();
         });
     }

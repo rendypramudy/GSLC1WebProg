@@ -10,7 +10,7 @@ background-size: cover;">
     <div class="position-absolute top-50 start-50 translate-middle">
         <h1 class="text-light">Welcome to Zoo</h1>
         <div class="col-md-12 text-center">
-           <p style="color: red">Your New Favorite Zoo</p>
+           <p style="color:white" style="font-size 50px">Hello, {{auth()->user()->name}}</p>
             <a href="/animallist" type="button" class="btn btn-primary">View Animal List</a>
         </div>
     </div>

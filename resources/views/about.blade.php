@@ -35,7 +35,7 @@
      no-repeat right;
      background-size: cover;">
    <div class="img1">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVOC8ldlAnaNKgiFj92HfuezqW7Bri_29uA&usqp=CAU" height="500px" width="700px"  alt="">
+    <img src="https://i0.wp.com/senengdolan.com/wisata/wp-content/uploads/sites/2/2021/06/Taman-Safari-Bogor.jpg?resize=840%2C470&ssl=1" height="500px" width="700px"  alt="">
    </div>
    <div class="title">
     <h2>Ren Zoo</h2>
